@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="obesity3">#E64A19</color>
+    <color name="obesity2">#F57C00</color>
+    <color name="obesity1">#AFB42B</color>
+    <color name="overweight">#388E3C</color>
+    <color name="Normal">#00796B</color>
+    <color name="underweight">#D32F2F</color>
+    <color name="not">#C2185B</color>
+
+
+</resources>
